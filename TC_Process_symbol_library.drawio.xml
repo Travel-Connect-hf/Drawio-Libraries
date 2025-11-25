@@ -6,7 +6,7 @@
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"TC Process step\" style=\"rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"117\" height=\"48\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;align=center;strokeColor=#0A4B60;fillColor=#0A4B60;fontColor=#FFFFFF;\" value=\"TC Process step\" vertex=\"1\"&gt;&lt;mxGeometry height=\"48\" width=\"117\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 117,
     "h": 48,
     "aspect": "fixed"
@@ -108,9 +108,9 @@
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" c4Name=\"Customer\" c4Type=\"\" id=\"2\"&gt;&lt;mxCell style=\"html=1;fontSize=8;dashed=0;whiteSpace=wrap;fillColor=#1BA1E2;strokeColor=#006EAF;fontColor=#FFFFFF;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=1;fontFamily=Verdana;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"9\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"3\" value=\"TC&amp;lt;div&amp;gt;Employee&amp;lt;/div&amp;gt;\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;fontColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"12\" width=\"60\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object placeholders=\"1\" c4Name=\"Customer\" c4Type=\"\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"html=1;fontSize=8;dashed=0;whiteSpace=wrap;fillColor=#0A4B60;strokeColor=#0A4B60;fontColor=#FFFFFF;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=1;fontFamily=Verdana;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"40\" x=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;fontColor=#FFFFFF;strokeColor=none;\" value=\"TC&amp;lt;div&amp;gt;Employee&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"60\" y=\"11\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 60,
-    "h": 42.00000000000019,
+    "h": 41.000000000000064,
     "aspect": "fixed"
   },
   {
